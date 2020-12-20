@@ -1,6 +1,6 @@
 package server;
 import java.io.Serializable; 
-
+// test
 public class Payload implements Serializable {
 
     /**
