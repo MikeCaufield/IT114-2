@@ -1,5 +1,5 @@
 package client;
-//test
+//test test
 public interface Event {
     void onClientConnect(String clientName, String message);
 
